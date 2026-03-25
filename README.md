@@ -1,4 +1,4 @@
-# PAID Backend - Tech Challenge
+# PAIF Backend - Tech Challenge
 
 API REST desenvolvida com **Node.js**, **Express** e **MongoDB** como parte do **Tech Challenge - Fase 2 (FIAP)**.
 
