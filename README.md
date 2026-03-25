@@ -169,14 +169,20 @@ O projeto utiliza **GitHub Actions** para executar automaticamente os testes a c
 
 ---
 
-## 😶‍🌫️ Dificuldades enfrentadas durante o projeto
+## 📚 Experiências e desafios
 
-- Debugging na fase de testes unitários.
-- Implementação de testes automáticos utilizando GitHub Actions.
+Durante o desenvolvimento do projeto, alguns desafios foram enfrentados:
+
+- Integração entre Node.js e MongoDB utilizando Mongoose;
+- Configuração do ambiente Docker para rodar aplicação e banco de dados simultaneamente;
+- Ajustes no pipeline de CI/CD com GitHub Actions, especialmente na configuração de caminhos e dependências;
+- Implementação de testes automatizados garantindo cobertura mínima exigida (De longe foi o mais trabalhoso).
+
+Esse desafio me serviu de início no Backend de uma forma mais especialista e aprofundada, no começo confesso que não acreditei que conseguiria, me sinto realizado após a conclusão desse desafio, e me sinto ansioso para explorar mais o que a pós tem a oferecer.
 
 ---
 
 ## 👨‍💻 Autor
 
 Matheus Henrique Macedo Marcondes  
-Tech Challenge - FIAP
+Tech Challenge - Fase 2 | FIAP
